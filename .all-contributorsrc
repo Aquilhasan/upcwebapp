@@ -1,0 +1,93 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Faisal-Manzer",
+      "name": "Faisal Manzer",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18066439?v=4",
+      "profile": "https://Faisal-Manzer.in",
+      "contributions": [
+        "code",
+        "design",
+        "infra",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "alhaqhassan",
+      "name": "AHMAD HASSAN ANSARI",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15712390?v=4",
+      "profile": "http://alhacen.cf",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "ashertoufeeq",
+      "name": "Asher Toufeeq",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/32986474?v=4",
+      "profile": "http://asher-toufeeq.me",
+      "contributions": [
+        "security",
+        "code"
+      ]
+    },
+    {
+      "login": "1arshan",
+      "name": "1arshan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/48045961?v=4",
+      "profile": "https://github.com/1arshan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nashrahnaseem",
+      "name": "Nashrah Naseem",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/54800516?v=4",
+      "profile": "https://github.com/nashrahnaseem",
+      "contributions": [
+        "content",
+        "code"
+      ]
+    },
+    {
+      "login": "Aeonwolf",
+      "name": "Mikah",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/55657017?v=4",
+      "profile": "https://github.com/Aeonwolf",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "vishalkukreja",
+      "name": "Vishal Kukreja",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/183714?v=4",
+      "profile": "https://vishalkukreja.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "brunodhr",
+      "name": "Bruno Filipe",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/37847186?v=4",
+      "profile": "https://www.linkedin.com/in/brunodhr/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "upcjmi-react-app",
+  "projectOwner": "Faisal-Manzer",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "commitConvention": "none"
+}
